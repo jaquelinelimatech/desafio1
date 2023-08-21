@@ -1,0 +1,65 @@
+body html{
+    margin: 50px;
+    margin-top: 20px;
+    font-size: 12px;
+}
+
+
+h1{
+    text-align: center;
+    }
+
+p{
+    text-align: justify;
+    line-height: 30px; 
+    text-align: justify;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: large;
+}    
+
+.tema{
+    text-align: center;
+}
+
+
+ul > li{
+    line-height: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+li{
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.lista{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+
+#topicos{
+    font-family:Arial, Helvetica, sans-serif;
+   
+}    
+
+
+footer{
+    columns:3;
+    background-color: aquamarine;
+}
+
+
+footer .footer{
+    text-align: justify;
+    display: flex;
+    justify-content: space-between;
+    margin-right: 10px;
+}
+
+.footer a {
+    color: black;
+    text-decoration: none;
+    padding: 0px;
+    margin-top: 0px;
+}
